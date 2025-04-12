@@ -12,7 +12,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-*.h5
+# *.h5
 
 # Archivos de sistema
 .DS_Store
