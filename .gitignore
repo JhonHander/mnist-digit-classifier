@@ -1,0 +1,36 @@
+# Entornos virtuales
+env_cnn/
+env/
+.env/
+venv/
+.venv/
+
+# Archivos generados
+# mnist_model.h5
+# test_images/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.h5
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# Logs y datos temporales
+logs/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+
+# Archivos específicos que no quieres versionar pero necesitas para desarrollo
+# mnist_model.h5  # Si prefieres que los usuarios regeneren el modelo ejecutando el notebook
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.swp
