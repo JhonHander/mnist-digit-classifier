@@ -1,0 +1,1 @@
+# Este archivo puede estar vacío o incluir configuraciones globales si es necesario.
