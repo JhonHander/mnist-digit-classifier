@@ -56,3 +56,6 @@ README.md
 
 # Archivos no necesarios para la imagen
 requirements.txt
+**/local_settings.py
+**/test_*.py
+**/temp/
